@@ -19,4 +19,5 @@ collections:
       - { label: '內容', name: 'body', widget: 'markdown' }
       - { label: "標籤", name: "tags", widget: "list", required: false}
       - { label: "分類", name: "categories", widget: "list", required: false}
-      - { label: "首圖", name: "image", widget: "image"}
+      - { label: "首圖", name: "image", widget: "image", required: false}
+    format: 'toml-frontmatter'
