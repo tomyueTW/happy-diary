@@ -5,7 +5,7 @@ paginate: 5
 title: TomYue's Happy Diary
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: tomyue-happy-diary
 
 # GA Tracking ID
 googleAnalytics: G-1ZLHLE5FQ2
