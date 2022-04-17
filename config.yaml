@@ -1,4 +1,4 @@
-baseurl: https://heroic-kheer-6734fe.netlify.app/
+baseurl: https://enblog.tomyue.cc/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
@@ -8,7 +8,7 @@ title: TomYue's Happy Diary
 disqusShortname: hugo-theme-stack
 
 # GA Tracking ID
-googleAnalytics:
+googleAnalytics: G-1ZLHLE5FQ2
 
 # Theme i18n support
 # Available values: ar, ca, de, el, en, es, fr, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
