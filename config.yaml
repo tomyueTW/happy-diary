@@ -54,7 +54,7 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname:
+            shortname: tomyue-happy-diary
             apiUrl:
             apiKey:
             admin:
