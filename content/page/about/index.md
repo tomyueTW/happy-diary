@@ -33,4 +33,4 @@ I'm sick because I have a lack of alcohol. Cocktail lover.🍻
 
 ## I’m much admired for Steve Jobs.
 
-Stay hungry, stay fullish.
+Stay Hungry, Stay Foolish.
